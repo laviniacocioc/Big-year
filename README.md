@@ -1,4 +1,4 @@
-In this exercise you I designed and implemented a database for bird-watchers. The database contains birds, each of which has a name (string) and a name in Latin
+In this exercise I designed and implemented a database for bird-watchers. The database contains birds, each of which has a name (string) and a name in Latin
 (string). The database also counts the observations of each bird.
 
 The program must implement the following commands:
